@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAUSUFUUjOkDKsi70a/0NTAm5/I4SmkrKFrAG7NofDIIhS0JYgKYju1n6Jmo4PDrt4nhkFDuZjTunyYRzaMlig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JesseLucas\\source\\repos\\ReactApp1\\ReactApp1.Server\\ReactApp1.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JesseLucas\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.26\\microsoft.aspnetcore.spaproxy.6.0.26.nupkg.sha512",
+    "C:\\Users\\JesseLucas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\JesseLucas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JesseLucas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\JesseLucas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\JesseLucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\JesseLucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
